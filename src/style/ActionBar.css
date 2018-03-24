@@ -1,0 +1,17 @@
+.ActionBar {
+    margin: 0 auto;
+    width: 50vw;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr 2fr 1fr 1fr 1fr;
+    text-align: center;
+}
+
+.ActionBar-action,
+.ActionBar-option {
+    /*box-shadow: 0 0 5px 2px #4f5355;*/
+    padding: 5px;
+    background-image: url("http://freedesignfile.com/upload/2016/10/Mottled-grunge-background-texture-background-wall.jpg");
+    background-size: cover;
+    color: #f2b61a;
+    font-size: 0.8em;
+}
